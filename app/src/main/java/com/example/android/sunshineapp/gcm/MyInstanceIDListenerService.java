@@ -2,8 +2,9 @@ package com.example.android.sunshineapp.gcm;
 
 import android.content.Intent;
 import com.google.android.gms.iid.InstanceIDListenerService;
+
 /**
- * Created by veeral on 17/07/2016.
+ * Created by veeral on 18/07/2016.
  */
 public class MyInstanceIDListenerService extends InstanceIDListenerService {
     private static final String TAG = "MyInstanceIDLS";

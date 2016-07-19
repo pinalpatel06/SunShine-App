@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.example.android.sunshineapp.MainActivity;
 import com.example.android.sunshineapp.R;
 import com.google.android.gms.gcm.GcmListenerService;
+
 /**
  * Created by veeral on 17/07/2016.
  */
