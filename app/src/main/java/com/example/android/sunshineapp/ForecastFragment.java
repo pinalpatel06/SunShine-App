@@ -152,7 +152,6 @@ public class ForecastFragment extends Fragment implements LoaderManager.LoaderCa
         return rootView;
     }
 
-
     @Override
     public void onSaveInstanceState(Bundle outState) {
         // When tablets rotate, the currently selected list item needs to be saved.
